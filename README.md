@@ -1,5 +1,5 @@
 # Github Pages Start to Bootstrap mit SCSS (plan) (Work in progress)
-* Lastes Version of this Workshop will always shown in: https://my-github-pages.github.io/
+* Lastes Version of this Workshop will always shown in: [https://my-github-pages.github.io/](https://my-github-pages.github.io/)
 * I will start with a simple HTML Page. It shows up in github: https://my-github-pages.github.io/HTML   
 * Next Step will be: Simple use of Jekyll: https://my-github-pages.github.io/Jekyll
   * Use of Markdown?
