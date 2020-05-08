@@ -6,7 +6,7 @@
   * Use of Markdown!
   * Use and reuse of footer, header .... generating static pages from templates! 
 * Add Bootstrap [https://my-github-pages.github.io/bootstrap-4-only-github-pages](https://my-github-pages.github.io/bootstrap-4-only-github-pages)
-* Add Themes from [https://bootswatch.com/]([https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
+* Add Themes from [https://bootswatch.com/](https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
 
 
 Credits:
