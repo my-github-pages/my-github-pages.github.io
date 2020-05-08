@@ -2,7 +2,7 @@
 * Lastes Version of this Workshop will always shown in: [https://my-github-pages.github.io/](https://my-github-pages.github.io/)
 * I will start with a simple HTML Page. It shows up in github: [https://my-github-pages.github.io/HTML](https://my-github-pages.github.io/HTML)     
 * Next Step will be: Simple use of Jekyll: [https://my-github-pages.github.io/Jekyll](https://my-github-pages.github.io/Jekyll)
-  * Use of Markdown?
+  * Use of Markdown!
   * Use and reuse of footer, header .... generating static pages from templates! 
 * Add Bootstrap
 * Add Themes from [https://bootswatch.com/]([https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
