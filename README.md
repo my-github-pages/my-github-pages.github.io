@@ -5,7 +5,7 @@
   * Use of Markdown?
   * Use and reuse of footer, header .... generating static pages from templates! 
 * Add Bootstrap
-* Add Themes from https://bootswatch.com/
+* Add Themes from https://bootswatch.com/ https://my-github-pages.github.io/bootstrap-4-github-pages
 
 Credits:
 * https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/
