@@ -8,6 +8,9 @@
 * Add Bootstrap [https://my-github-pages.github.io/bootstrap-4-only-github-pages](https://my-github-pages.github.io/bootstrap-4-only-github-pages)
 * Add Themes from [https://bootswatch.com/](https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
 
+Planed:
+* Javascript why? Why not? 
+* npm Javascript on server.
 
 Credits:
 * [https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/)
