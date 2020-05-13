@@ -18,6 +18,9 @@ Credits:
 * [https://nicolas-van.github.io/bootstrap-4-github-pages/](https://nicolas-van.github.io/bootstrap-4-github-pages)
 * [https://bootswatch.com/](https://bootswatch.com/)
 
+See also: 
+* https://www.heise.de/ratgeber/GitHub-Pages-Websites-mit-und-ohne-eigener-Domain-auf-GitHub-hosten-4715183.html?seite=4
+
 ## Info for me!
 
 ### Use always the last README.md for all tags and branches if possible. 
