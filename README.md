@@ -9,7 +9,7 @@
 * Add Themes from [https://bootswatch.com/](https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
 
 Planed:
-* Javascript why? Why not? [https://github.com/my-github-pages/javascript](https://github.com/my-github-pages/javascript)
+* Javascript why? Why not? [https://my-github-pages.github.io/my-github-pages/javascript](https://my-github-pages.github.io/my-github-pages/javascript)
 * npm Javascript on server.
 
 Credits:
