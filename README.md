@@ -5,7 +5,8 @@
 * Next Step will be: Simple use of Jekyll: [https://my-github-pages.github.io/Jekyll](https://my-github-pages.github.io/Jekyll)
   * Use of Markdown!
   * Use and reuse of footer, header .... generating static pages from templates! 
-* CSS simple use first. Show what is possible. What is the best idea with css. 
+* CSS simple use first. Show what is possible. What is the best idea with css. [https://my-github-pages.github.io/css/](https://my-github-pages.github.io/css/)
+* CSS remove bugs and problems of browsers and HTML. see: [https://my-github-pages.github.io/normalize.css/](https://my-github-pages.github.io/normalize.css/)
 * Add Bootstrap [https://my-github-pages.github.io/bootstrap-4-only-github-pages](https://my-github-pages.github.io/bootstrap-4-only-github-pages)
 * Add Themes from [https://bootswatch.com/](https://bootswatch.com/) [https://my-github-pages.github.io/bootstrap-4-github-pages](https://my-github-pages.github.io/bootstrap-4-github-pages)
 
