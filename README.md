@@ -13,6 +13,7 @@
 Planed:
 * Javascript why? Why not? [https://my-github-pages.github.io/javascript](https://my-github-pages.github.io/javascript)
 * npm Javascript on server.
+* [https://bootstrap-vue.org/](https://bootstrap-vue.org/)
 
 Credits:
 * [https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/)
