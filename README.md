@@ -27,10 +27,9 @@ See also:
 * I use this project to check if I understand something correct or not. :-)
 * Also you will learn a little bit of git.
 
----------- 
-
-I have to check:
+----------I have to check:
 * https://travis-ci.org/nicolas-van/bootstrap-4-github-pages
+* https://github.com/vuejs/vue
 
 # Boostrap 4 Github Pages
 
